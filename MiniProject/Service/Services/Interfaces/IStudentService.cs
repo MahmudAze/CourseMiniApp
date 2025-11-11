@@ -9,7 +9,7 @@ namespace Service.Services.Interfaces
 {
     public interface IStudentService
     {
-        Student Create(Student student);
+        void Create(int groupId, Student student);
         void Update(Student student);
         void Delete(Student student);
         Student GetById(int id);

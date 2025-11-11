@@ -11,8 +11,7 @@ namespace Domain.Models
     {
         public string Surname { get; set; }
         public int Age { get; set; }
-        public int GroupId { get; set; }
-        public CourseGroup Group { get; set; }
+        public CourseGroup CourseGroup { get; set; }
 
     }
 }

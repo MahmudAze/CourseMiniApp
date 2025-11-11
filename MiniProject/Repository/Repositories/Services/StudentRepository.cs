@@ -1,4 +1,5 @@
 ﻿using Domain.Models;
+using Repository.Contexts;
 using Repository.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -12,27 +13,37 @@ namespace Repository.Repositories.Services
     {
         public void Create(Student entity)
         {
-            throw new NotImplementedException();
+            AppDbContext<Student>.Entities.Add(entity);
         }
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            var entity = AppDbContext<Student>.Entities.Find(s => s.Id == id);
+            AppDbContext<Student>.Entities.Remove(entity);
         }
 
-        public List<Student> GetAll(Predicate<Student>? predicate = null)
+        public List<Student> GetAll(Predicate<Student?> predicate = null)
         {
-            throw new NotImplementedException();
+            if (predicate == null)
+            {
+                return AppDbContext<Student>.Entities;
+            }
+
+            return AppDbContext<Student>.Entities.FindAll(predicate);
         }
 
         public Student GetById(int id)
         {
-            throw new NotImplementedException();
+            return AppDbContext<Student>.Entities.Find(s => s.Id == id);
         }
 
         public void Update(int id, Student entity)
         {
-            throw new NotImplementedException();
+            var existingEntity = AppDbContext<Student>.Entities.Find(s => s.Id == id);
+            existingEntity.Name = entity.Name;
+            existingEntity.Age = entity.Age;
+            existingEntity.Surname = entity.Surname;
+            existingEntity.CourseGroup = entity.CourseGroup;
         }
     }
 }

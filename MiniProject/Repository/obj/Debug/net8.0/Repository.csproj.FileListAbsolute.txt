@@ -1,0 +1,16 @@
+D:\Mini Project\MiniProject\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\Mini Project\MiniProject\Repository\bin\Debug\net8.0\Repository.dll
+D:\Mini Project\MiniProject\Repository\bin\Debug\net8.0\Repository.pdb
+D:\Mini Project\MiniProject\Repository\bin\Debug\net8.0\Domain.dll
+D:\Mini Project\MiniProject\Repository\bin\Debug\net8.0\Domain.pdb
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.dll
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\Repository.pdb
+D:\Mini Project\MiniProject\Repository\obj\Debug\net8.0\ref\Repository.dll
