@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Service.Enums
+namespace Domain.Enums
 {
-    public enum StudentMethod
+    public enum StudentMethods
     {
         Create = 1,
         Delete = 2,
@@ -15,7 +15,6 @@ namespace Service.Enums
         GetAll = 5,
         GetAllByAge = 6,
         GetAllByGroupId = 7,
-        SearchByNameOrSurname = 8,
-        Exit = 0
+        SearchByNameOrSurname = 8
     }
 }

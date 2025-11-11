@@ -13,5 +13,12 @@ namespace Domain.Models
         public int Age { get; set; }
         public CourseGroup CourseGroup { get; set; }
 
+        public static int _id;
+        public Student()
+        {
+            Id = _id;
+            _id++;
+        }
+
     }
 }

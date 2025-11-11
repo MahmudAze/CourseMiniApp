@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Repository.Repositories.Services
 {
-    internal class StudentRepository : IStudentRepository
+    public class StudentRepository : IStudentRepository
     {
         public void Create(Student entity)
         {

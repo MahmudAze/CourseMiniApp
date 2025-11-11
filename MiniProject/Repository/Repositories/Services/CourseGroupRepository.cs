@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Repository.Repositories.Services
 {
-    internal class CourseGroupRepository : ICourseGroupRepository
+    public class CourseGroupRepository : ICourseGroupRepository
     {
         public void Create(CourseGroup entity)
         {

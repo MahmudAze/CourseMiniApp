@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Enums
 {
-    public enum CourseGroupMethod
+    public enum CourseGroupMethods
     {
         Create = 1,
         Update = 2,
