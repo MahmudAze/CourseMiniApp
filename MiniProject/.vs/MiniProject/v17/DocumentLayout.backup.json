@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Mini Project\\MiniProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|d:\\mini project\\miniproject\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|solutionrelative:domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|d:\\mini project\\miniproject\\domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|solutionrelative:domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|d:\\mini project\\miniproject\\domain\\models\\shared\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|solutionrelative:domain\\models\\shared\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6303C508-90D4-4B22-B92B-19595FD18ED9}|MiniProject\\MiniProject.csproj|d:\\mini project\\miniproject\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6303C508-90D4-4B22-B92B-19595FD18ED9}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Student.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Student.cs",
+              "RelativeToolTip": "Domain\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:53:44.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Group.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Group.cs",
+              "RelativeToolTip": "Domain\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:52:11.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Shared\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Shared\\BaseEntity.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Shared\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Models\\Shared\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:50:27.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Mini Project\\MiniProject\\MiniProject\\Program.cs",
               "RelativeDocumentMoniker": "MiniProject\\Program.cs",
               "ToolTip": "D:\\Mini Project\\MiniProject\\MiniProject\\Program.cs",
               "RelativeToolTip": "MiniProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T14:46:16.559Z",
               "EditorCaption": ""

@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "D:\\Mini Project\\MiniProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|d:\\mini project\\miniproject\\service\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|solutionrelative:service\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|d:\\mini project\\miniproject\\service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|d:\\mini project\\miniproject\\service\\services\\implementations\\coursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|solutionrelative:service\\services\\implementations\\coursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|d:\\mini project\\miniproject\\service\\services\\interfaces\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|d:\\mini project\\miniproject\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49B65ABD-45DB-43E4-83A9-B9C8DB99172F}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|d:\\mini project\\miniproject\\repository\\repositories\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|d:\\mini project\\miniproject\\repository\\repositories\\services\\coursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\services\\coursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|d:\\mini project\\miniproject\\repository\\repositories\\interfaces\\icoursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\icoursegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|d:\\mini project\\miniproject\\repository\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|d:\\mini project\\miniproject\\repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|d:\\mini project\\miniproject\\repository\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|solutionrelative:repository\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|d:\\mini project\\miniproject\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D3A8F55-5C33-4566-99F1-714D3C6A64CD}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|d:\\mini project\\miniproject\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|solutionrelative:domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|d:\\mini project\\miniproject\\domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|solutionrelative:domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|d:\\mini project\\miniproject\\domain\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|solutionrelative:domain\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{723E3980-F8A5-4648-8596-C33FCE19C534}|Domain\\Domain.csproj|d:\\mini project\\miniproject\\domain\\models\\shared\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +79,188 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Service\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Service\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "Service\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:33:29.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:30:56.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseGroupService.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Service\\Services\\Interfaces\\ICourseGroupService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\ICourseGroupService.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Service\\Services\\Interfaces\\ICourseGroupService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\ICourseGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:26:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseGroupService.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Service\\Services\\Implementations\\CourseGroupService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Implementations\\CourseGroupService.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Service\\Services\\Implementations\\CourseGroupService.cs",
+              "RelativeToolTip": "Service\\Services\\Implementations\\CourseGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:25:26.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T15:24:40.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Services\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Services\\StudentRepository.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Services\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Services\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:23:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseGroupRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Services\\CourseGroupRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Services\\CourseGroupRepository.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Services\\CourseGroupRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Services\\CourseGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:22:56.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:21:42.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:18:57.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICourseGroupRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Repository\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\ICourseGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:17:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Repository\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Repository\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:14:42.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T15:13:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Student.cs",
               "ToolTip": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Student.cs",
               "RelativeToolTip": "Domain\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T14:53:44.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Group.cs",
-              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Group.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Group.cs",
-              "ToolTip": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Group.cs",
-              "RelativeToolTip": "Domain\\Models\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "CourseGroup.cs",
+              "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Domain\\Models\\CourseGroup.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\CourseGroup.cs",
+              "ToolTip": "D:\\Mini Project\\MiniProject\\Domain\\Models\\CourseGroup.cs",
+              "RelativeToolTip": "Domain\\Models\\CourseGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T14:52:11.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Mini Project\\MiniProject\\Domain\\Models\\Shared\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Shared\\BaseEntity.cs",
@@ -64,12 +268,11 @@
               "RelativeToolTip": "Domain\\Models\\Shared\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T14:50:27.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T14:50:27.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Mini Project\\MiniProject\\MiniProject\\Program.cs",
               "RelativeDocumentMoniker": "MiniProject\\Program.cs",
@@ -77,8 +280,7 @@
               "RelativeToolTip": "MiniProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T14:46:16.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T14:46:16.559Z"
             }
           ]
         },

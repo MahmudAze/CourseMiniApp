@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Repository.Contexts
+{
+    public class AppDbContext<T>
+    {
+        public static List<T> Entities { get; set; }
+
+        static AppDbContext()
+        {
+            Entities = new List<T>();
+        }
+    }
+}
