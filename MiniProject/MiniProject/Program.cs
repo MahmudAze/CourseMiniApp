@@ -113,6 +113,7 @@ namespace MiniProject
                         courseGroupController.SearchCourseGroupsByName(groupService);
                         break;
                     case 0:
+                        Helper.ColorWrite(ConsoleColor.Yellow, "Exited");
                         return;
                     default:
                         Helper.ColorWrite(ConsoleColor.Red, "Incorrect choice!");
@@ -175,6 +176,7 @@ namespace MiniProject
                         studentController.SearchStudents(studentService);
                         break;
                     case 0:
+                        Helper.ColorWrite(ConsoleColor.Yellow, "Exited");
                         return;
                     default:
                         Helper.ColorWrite(ConsoleColor.Red, "Incorrect choice!");

@@ -24,7 +24,7 @@ namespace Service.Services.Implementations
 
         }
 
-        public void Create(int groupId ,Student student)
+        public void Create(int groupId, Student student)
         {
             try
             {
@@ -80,14 +80,14 @@ namespace Service.Services.Implementations
 
         public List<Student> GetAll()
         {
-            
+
             List<Student> students = _studentRepository.GetAll();
             return students;
         }
 
         public List<Student> GetAllByAge(int age)
         {
-            
+
             try
             {
                 if (age >= 0)
@@ -109,7 +109,7 @@ namespace Service.Services.Implementations
 
         public List<Student> GetAllByGroupId(int groupId)
         {
-            
+
             try
             {
                 if (groupId >= 0)
@@ -119,7 +119,9 @@ namespace Service.Services.Implementations
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentNegativeException("Group ID has to be positive numbers!");
+                    Console.ResetColor();
                 }
             }
             catch (ArgumentNegativeException ex)
@@ -131,13 +133,15 @@ namespace Service.Services.Implementations
 
         public Student GetById(int id)
         {
-            
+
             var student = _studentRepository.GetById(id);
             try
             {
                 if (student == null)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new NotFoundException("There is no student with given ID!");
+                    Console.ResetColor();
                 }
             }
             catch (NotFoundException ex)
@@ -149,7 +153,7 @@ namespace Service.Services.Implementations
 
         public List<Student> SearchByNameOrSurname(string keyword)
         {
-            
+
             List<Student> students = _studentRepository.GetAll(s =>
             s != null &&
             (s.Name.Contains(keyword, StringComparison.OrdinalIgnoreCase) ||
@@ -158,7 +162,9 @@ namespace Service.Services.Implementations
             {
                 if (students.Count == 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new EmptyListException("No students found with the given keyword.");
+                    Console.ResetColor();
                 }
             }
             catch (EmptyListException ex)
@@ -170,7 +176,7 @@ namespace Service.Services.Implementations
 
         public void Update(int id, Student student)
         {
-            
+
             try
             {
                 if (id >= 0 && student is not null)
@@ -179,11 +185,15 @@ namespace Service.Services.Implementations
                 }
                 else if (id < 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentNegativeException("Id has to be positive numbers!");
+                    Console.ResetColor();
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentNullException("Student cannot be null!");
+                    Console.ResetColor();
                 }
             }
             catch (ArgumentNegativeException ex)

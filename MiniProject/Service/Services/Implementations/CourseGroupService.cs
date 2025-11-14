@@ -32,7 +32,9 @@ namespace Service.Services.Implementations
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentNullException("Course group cannot be null!");
+                    Console.ResetColor();
                 }
             }
             catch (ArgumentNullException ex)
@@ -53,13 +55,18 @@ namespace Service.Services.Implementations
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentNegativeException("Id has to be positive numbers!");
+                    Console.ResetColor();
                 }
+
+                
             }
             catch (ArgumentNegativeException ex)
             {
                 Console.WriteLine(ex.Message);
             }
+            
         }
 
 
@@ -79,7 +86,9 @@ namespace Service.Services.Implementations
             {
                 if (courseGroups.Count == 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new EmptyListException("No course groups found with the given room name.");
+                    Console.ResetColor();
                 }
             }
             catch (EmptyListException ex)
@@ -98,7 +107,9 @@ namespace Service.Services.Implementations
             {
                 if (courseGroups.Count == 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new EmptyListException("No course groups found with the given teacher name.");
+                    Console.ResetColor();
                 }
             }
             catch (EmptyListException ex)
@@ -120,7 +131,9 @@ namespace Service.Services.Implementations
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentNegativeException("Id has to be positive numbers!");
+                    Console.ResetColor();
                 }
             }
             catch (ArgumentNegativeException ex)
@@ -140,7 +153,9 @@ namespace Service.Services.Implementations
             {
                 if (groups.Count == 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new EmptyListException("No groups found with the given keyword.");
+                    Console.ResetColor();
                 }
             }
             catch (EmptyListException ex)
@@ -161,11 +176,15 @@ namespace Service.Services.Implementations
                 }
                 else if (id < 0)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentNegativeException("Id has to be positive numbers!");
+                    Console.ResetColor();
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     throw new ArgumentNullException("Course group cannot be null!");
+                    Console.ResetColor();
                 }
             }
             catch (ArgumentNegativeException ex)

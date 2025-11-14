@@ -19,7 +19,9 @@ namespace Repository.Repositories.Services
         public void Delete(int id)
         {
             var entity = AppDbContext<Student>.Entities.Find(s => s.Id == id);
+
             AppDbContext<Student>.Entities.Remove(entity);
+
         }
 
         public List<Student> GetAll(Predicate<Student?> predicate = null)
