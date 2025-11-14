@@ -14,9 +14,13 @@ namespace MiniProject.Controllers
     {
         public void CreateStudent(StudentService studentService)
         {
+            Console.Write("Enter student name: ");
             string name = Helper.ReadValidatedString("Invalid name! Enter again:");
+            Console.Write("Enter student surname: ");
             string surname = Helper.ReadValidatedString("Invalid surname! Enter again:");
+            
             int age = Helper.ReadValidatedInt("Enter age:");
+            
             int groupId = Helper.ReadValidatedInt("Enter group ID:");
 
             studentService.Create(groupId, new Student { Name = name, Surname = surname, Age = age });

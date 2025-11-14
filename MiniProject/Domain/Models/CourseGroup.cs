@@ -12,7 +12,7 @@ namespace Domain.Models
         public string TeacherName { get; set; }
         public string Room { get; set; }
 
-        public static int _id;
+        public static int _id = 1;
         public CourseGroup()
         {
             Id = _id;
